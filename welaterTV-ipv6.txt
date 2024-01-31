@@ -200,11 +200,17 @@ TVB星河,http://113.117.74.99:8081/hls/135/index.m3u8
 
 明珠台,http://ictv.91tv.top:9901/tsfile/live/1007_1.m3u8
 
-星空卫视,http://ictv.91tv.top:9901/tsfile/live/1008_1.m3u8
-星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8
+星空卫视,http://110.72.83.181:808/hls/60/index.m3u8
+星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
+星空卫视,http://110.72.83.181:808/hls/60/index.m3u8
+星空卫视,http://110.72.83.165:808/hls/60/index.m3u8
 
-星空音乐,http://110.72.67.13:808/hls/64/index.m3u8
-星空音乐,http://110.72.69.105:808/hls/64/index.m3u8
+星空音乐,http://110.72.83.165:808/hls/64/index.m3u8
+星空音乐,http://110.72.83.181:808/hls/64/index.m3u8
+星空音乐,http://110.72.83.165:808/hls/64/index.m3u8
+星空音乐,http://110.72.83.181:808/hls/64/index.m3u8
+
+
 
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
