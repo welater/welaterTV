@@ -483,7 +483,10 @@ TVB星河,http://113.86.206.78:9999/tsfile/live/1053_1.m3u8
 
 星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
 
-星空音乐,http://113.86.206.78:9999/tsfile/live/1050_1.m3u8
+星空音乐,http://180.143.82.135:8181/tsfile/live/1006_1.m3u8
+星空音乐,http://119.125.104.159:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&down=1
+星空音乐,http://110.72.87.140:808/hls/64/index.m3u8
+星空音乐,http://110.72.87.143:808/hls/64/index.m3u8
 
 龍翔時代電影台,http://180.143.82.135:8181/tsfile/live/1075_1.m3u8
 
